@@ -105,8 +105,19 @@ This repository fulfills the required tasks for the ShadowFox AIML Internship, i
 
 ---
 
-# 📸 Output Screenshots
-Screenshots of project outputs and results are included in the **screenshots** folder for verification.
+## Screenshots
+
+### Boston House Prediction
+![Boston](screenshots/boston_output.png)
+
+### Car Price Prediction
+![Car](screenshots/car_output.png)
+
+### Loan Prediction
+![Loan](screenshots/loan_output.png)
+
+### NLP Language Model
+![NLP](screenshots/nlp_output.png)
 
 ---
 
